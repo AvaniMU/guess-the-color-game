@@ -8,9 +8,7 @@
 ### Team Name: B-Team
 
 
-### Team Members
-- Team Lead: Anandhu S Uthaman - Gecidukki
-- Member 2: Shimna B - Gecidukki
+
 
 
 ### Project Description
