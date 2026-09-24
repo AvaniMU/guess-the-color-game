@@ -5,7 +5,7 @@
 
 
 ## Basic Details
-### Team Name: B-Team
+
 
 
 
